@@ -1,0 +1,13 @@
+<style>
+  .beacon {
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+    background: blue;
+    position: absolute;
+    transition: all 0.2s ease-in;
+  }
+</style>
+<button (click)="onChangePositionBeacon()">Change position</button>
+
+<div class="beacon" [style.top.px]="positionY" [style.left.px]="positionX"></div>

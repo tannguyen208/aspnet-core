@@ -1,0 +1,13 @@
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\bin\Debug\netcoreapp2.1\RealtimeWithSignalR.deps.json
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\bin\Debug\netcoreapp2.1\RealtimeWithSignalR.runtimeconfig.json
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\bin\Debug\netcoreapp2.1\RealtimeWithSignalR.runtimeconfig.dev.json
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\bin\Debug\netcoreapp2.1\RealtimeWithSignalR.dll
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\bin\Debug\netcoreapp2.1\RealtimeWithSignalR.pdb
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\obj\Debug\netcoreapp2.1\RealtimeWithSignalR.csproj.CoreCompileInputs.cache
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\obj\Debug\netcoreapp2.1\RealtimeWithSignalR.RazorAssemblyInfo.cache
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\obj\Debug\netcoreapp2.1\RealtimeWithSignalR.RazorAssemblyInfo.cs
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\obj\Debug\netcoreapp2.1\RealtimeWithSignalR.AssemblyInfoInputs.cache
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\obj\Debug\netcoreapp2.1\RealtimeWithSignalR.AssemblyInfo.cs
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\obj\Debug\netcoreapp2.1\RealtimeWithSignalR.RazorTargetAssemblyInfo.cache
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\obj\Debug\netcoreapp2.1\RealtimeWithSignalR.dll
+C:\Users\ng1an\Desktop\CoreAppWithSignalR\RealtimeWithSignalR\obj\Debug\netcoreapp2.1\RealtimeWithSignalR.pdb
